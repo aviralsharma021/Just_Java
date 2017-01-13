@@ -1,2 +1,3 @@
 # Just_Java
-ordering coffe from mobile.
+ordering coffee from mobile.
+# udacity android appdev course xml project
